@@ -13,7 +13,8 @@
 * The project showcases a strong emphasis on security, observability, and resilience, serving as a practical example of building robust and reliable software delivery systems in a modern cloud environment.
 * Architecture Diagram:
 
-![](./readme asset/architecture.png)
+![Diagram](readme asset/architecture.png)
+
 
 ## Key Achievements & Contributions
 
