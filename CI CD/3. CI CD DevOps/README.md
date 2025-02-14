@@ -13,7 +13,9 @@
 * The project showcases a strong emphasis on security, observability, and resilience, serving as a practical example of building robust and reliable software delivery systems in a modern cloud environment.
 * Architecture Diagram:
 
-![Diagram](https://raw.githubusercontent.com/vishalgunjalSWE/My-Real-Time-DevOps-SRE-Projects/main/CI%20CD/3.%20CI%20CD%20DevOps/readme%20asset/architecture.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalgunjalSWE/My-Real-Time-DevOps-SRE-Projects/main/CI%20CD/3.%20CI%20CD%20DevOps/readme%20asset/architecture.png" alt="Architecture Diagram" width="700">
+</p>
 
 
 ## Key Achievements & Contributions
