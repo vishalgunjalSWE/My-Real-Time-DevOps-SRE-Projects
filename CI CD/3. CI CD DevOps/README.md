@@ -16,6 +16,11 @@
 
 * The project showcases a strong emphasis on security, observability, and resilience, serving as a practical example of building robust and reliable software delivery systems in a modern cloud environment.
 
+
+* Architecture Diagram:
+
+![1739552072653](images/README/1739552072653.png)
+
 ---
 
 ## Key Achievements & Contributions
@@ -84,9 +89,7 @@ This project allowed me to hone a range of critical DevOps and DevSecOps skills,
 
 * **Version Control (Git):** Expertise in using Git for code management, collaboration, and version control.
 
-## Architecture Diagram
-
-![Architecture Diagram]([images/architecture-diagram.png](https://github.com/vishalgunjalSWE/My-Real-Time-DevOps-SRE-Projects/blob/main/CI%20CD/3.%20CI%20CD%20DevOps/readme%20asset/architecture.png)images/architecture-diagram.png) 
+# 
 
 ## Future Enhancements
 
