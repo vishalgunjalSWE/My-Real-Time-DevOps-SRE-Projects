@@ -13,9 +13,7 @@
 * The project showcases a strong emphasis on security, observability, and resilience, serving as a practical example of building robust and reliable software delivery systems in a modern cloud environment.
 * Architecture Diagram:
 
-![Architecture Diagram](CI%20CD/3.%20CI%20CD%20DevOps/readme%20asset/architecture.png)
-
----
+![](./readme asset/architecture.png)
 
 ## Key Achievements & Contributions
 
