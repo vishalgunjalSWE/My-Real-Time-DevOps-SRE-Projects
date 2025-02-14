@@ -8,7 +8,13 @@
 
 ## CI CD Pipeline Overview
 
-This project demonstrates the design, implementation, and operation of a **fully automated, secure, and scalable CI/CD pipeline**, meticulously crafted to accelerate application delivery while embedding DevSecOps principles from the ground up. Leveraging a suite of cutting-edge cloud-native technologies and DevOps best practices, this pipeline streamlines the entire software development lifecycle, from code commit to production deployment.  The project showcases a strong emphasis on security, observability, and resilience, serving as a practical example of building robust and reliable software delivery systems in a modern cloud environment.
+* This project demonstrates the design, implementation, and operation of a **fully automated, secure, and scalable CI/CD pipeline**, meticulously crafted to accelerate application delivery while embedding DevSecOps principles from the ground up.
+
+
+* Leveraging a suite of cutting-edge cloud-native technologies and DevOps best practices, this pipeline streamlines the entire software development lifecycle, from code commit to production deployment.
+
+
+* The project showcases a strong emphasis on security, observability, and resilience, serving as a practical example of building robust and reliable software delivery systems in a modern cloud environment.
 
 ---
 
